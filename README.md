@@ -5,3 +5,5 @@
 2.继承JobInterface实现run方法
 3.将生成的DLL放入TasksDll
 4.配置对应的任务
+
+本程序是在Frod-SW.TimerTask上做的二次开发
